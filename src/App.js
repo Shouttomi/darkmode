@@ -46,7 +46,7 @@ localStorage.setItem('theme',theme)
     <nav>
       <div className="nav-center">
         <h1>overreacted</h1>
-        <button className='btn' onClick={toggletheme}>toggle</button>
+        <button className='btn' onClick={toggletheme}>MODE</button>
       </div>
     </nav>
 
